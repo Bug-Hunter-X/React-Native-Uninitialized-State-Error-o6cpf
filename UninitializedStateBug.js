@@ -1,0 +1,1 @@
+This error occurs when you try to access a state variable before it has been initialized.  In functional components, this often happens when using useState before the component has fully mounted.  It can manifest as undefined values or errors like 'Cannot read properties of undefined (reading '...')'
